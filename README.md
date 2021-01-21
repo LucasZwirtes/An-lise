@@ -1,2 +1,2 @@
-# Analise
-Análise-Info2
+# Analise-Info2
+Repositório criado para a disciplina de analise
